@@ -31,17 +31,6 @@ fun main() {
 
 ---
 
-## Примечание!
-
-Данное вики использует много LaTeX вставок, но чтобы их рендерить нужны расширения браузера для этого.
-К примеру:
-
-- [Kaspersky Protection](https://www.kaspersky.ru/free-antivirus) (уже включает рендеринг формул)
-- [MathJax for GitHub](https://chrome.google.com/webstore/detail/mathjax-for-github/ioemnmodlmafdkllaclgeombjnmnbima) (для Chrome)
-- [GitHub with MathJax](https://addons.mozilla.org/ru/firefox/addon/github-with-mathjax/) (для Firefox)
-
----
-
 Для навигации по моему репозиторию откройте файл [оглавления](оглавление.md)
 
 Автор: *Иван Ершов*
