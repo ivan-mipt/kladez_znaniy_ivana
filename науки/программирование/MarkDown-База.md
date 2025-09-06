@@ -1,3 +1,8 @@
+---
+layout: default
+title: MarkDown
+---
+
 # Привет! Это мини-документация о использовании *MarkDown*
 ## P.S. Эта документация тоже на MarkDown!
 
