@@ -1,8 +1,8 @@
 :root {
   --main-bg-color: #f8f9fa;
-  --text-color: #212529;
-  --accent-color: #4361ee;
-  --code-bg: #e9ecef;
+  --text-color: #000000;
+  --accent-color: #000000;
+  --code-bg: #808080;
 }
 
 body {
