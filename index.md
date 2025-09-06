@@ -1,3 +1,12 @@
+---
+layout: default
+title: Кладезь знаний Ивана
+custom_css: true
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
+
 # Кладезь знаний Ивана
 
 ## Главная страница
